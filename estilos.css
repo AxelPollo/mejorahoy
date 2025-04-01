@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(146, 146, 146);
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+p{
+    color: white;
+    font-size:  30px;
+}
+h1{
+    color: red;
+    font-size:  60px;
+}
+
+div h2{
+    font-size:  50px;
+    color: aqua;
+}
+
+
+.parrafo{
+
+    color: red;
+    font-size:  30px;
+}
+
+a,img{
+    display: block;
+}
+
+a{
+    color: white;
+    margin: 50px 20px;
+    font-size: 40px;
+    
+}
+
+a:hover{
+    color: lime;
+}
+
+img{
+    width: 30%;
+    margin: auto;
+}
